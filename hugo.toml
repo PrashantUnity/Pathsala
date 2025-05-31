@@ -1,3 +1,6 @@
 baseURL = 'https://agurutwa.github.io/Pathsala/'
-languageCode = 'en-us'
-title = 'Pathsala'
+theme = "blowfish"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 10
+enableRobotsTXT = true
