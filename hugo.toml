@@ -2,5 +2,4 @@ baseURL = 'https://agurutwa.github.io/Pathsala/'
 theme = "blowfish"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 10
 enableRobotsTXT = true
