@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agurutwa.github.io/Pathsala/sitemap.xml
