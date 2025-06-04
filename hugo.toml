@@ -1,5 +1,22 @@
 baseURL = 'https://agurutwa.github.io/Pathsala/'
 theme = "blowfish"
+enableRobotsTXT = true
+
 languageCode = "en"
 defaultContentLanguage = "en"
-enableRobotsTXT = true
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+[languages.en]
+  languageName = "English"
+  weight = 1
+
+[languages.hi]
+  languageName = "हिन्दी"
+  weight = 2
+
+[params]
+  math = true
+  mathEngine = "mathjax"
+

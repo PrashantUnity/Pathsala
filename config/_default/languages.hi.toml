@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "hi"
+languageName = "English"
+weight = 2
+title = "Agurutwa Pathsala"
+
+[params]
+  displayName = "HI"
+  isoCode = "hi"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.svg"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "All Your content in One Place"
+  copyright = "CC 2025 Agurutwa"
+
+[params.author]
+  name = "Agurutwa Pathsala"
+  email = "agurutwa@gmail.com"
+  image = "img/favicon-96x96.png"
+  imageQuality = 96
+  headline = "I'm Organization"
+  bio = "A place to learn, share and study together. A place to grow and become better at what we do. A place to be ourselves and be free. A place to be happy and have fun. A place to be creative and innovative. A place to be inspired and motivated. A place to be productive and efficient. A place to be successful and achieve our goals."
+  links = [
+    { github = "https://github.com/agurutwa" },
+    { instagram = "https://instagram.com/agurutwa" },
+    { twitter = "https://twitter.com/agurutwa" },
+    { x-twitter = "https://twitter.com/agurutwa" },
+    { youtube = "https://youtube.com/agurutwa" },
+    { ko-fi = "https://ko-fi.com/agurutwa" },
+  ]
