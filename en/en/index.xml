@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agurutwa Pathsala</title><link>https://agurutwa.github.io/Pathsala/en/en/</link><description>Recent content on Agurutwa Pathsala</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>agurutwa@gmail.com (Agurutwa Pathsala)</managingEditor><webMaster>agurutwa@gmail.com (Agurutwa Pathsala)</webMaster><copyright>CC 2025 Agurutwa</copyright><atom:link href="https://agurutwa.github.io/Pathsala/en/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Math Test</title><link>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>agurutwa@gmail.com (Agurutwa Pathsala)</author><guid>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</guid><description>&lt;p>Inline:&lt;/p>
+&lt;p>$$
+a^2 + b^2 = c^2
+$$&lt;/p>
+&lt;p>Block:
+$$
+f(x) = \frac{1}{\sqrt{2\pi}} e^{-x^2/2}
+$$&lt;/p></description></item></channel></rss>
