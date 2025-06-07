@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agurutwa Pathsala</title><link>https://agurutwa.github.io/Pathsala/en/</link><description>Recent content on Agurutwa Pathsala</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>agurutwa@gmail.com (Agurutwa Pathsala)</managingEditor><webMaster>agurutwa@gmail.com (Agurutwa Pathsala)</webMaster><copyright>CC 2025 Agurutwa</copyright><atom:link href="https://agurutwa.github.io/Pathsala/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Math Test</title><link>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>agurutwa@gmail.com (Agurutwa Pathsala)</author><guid>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</guid><description>&lt;p>Inline:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agurutwa Pathsala</title><link>https://agurutwa.github.io/Pathsala/en/</link><description>Recent content on Agurutwa Pathsala</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>agurutwa@gmail.com (Agurutwa Pathsala)</managingEditor><webMaster>agurutwa@gmail.com (Agurutwa Pathsala)</webMaster><copyright>CC 2025 Agurutwa</copyright><atom:link href="https://agurutwa.github.io/Pathsala/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Math Test</title><link>https://agurutwa.github.io/Pathsala/en/en/upcoming/exponent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>agurutwa@gmail.com (Agurutwa Pathsala)</author><guid>https://agurutwa.github.io/Pathsala/en/en/upcoming/exponent/</guid><description>&lt;h1 class="relative group">Exponents (घातांक)
+&lt;div id="exponents-घतक" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exponents-%e0%a4%98%e0%a4%a4%e0%a4%95" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>We can express repeated multiplication in a concise form called an exponent.&lt;/p>
+&lt;p>For example:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>$$5 \times 5 \times 5 = 5^3$$&lt;/p>
+&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p>$$
+a \times a \times a \dots \times a$ (n times) = $a^n
+$$&lt;/p>
+&lt;h3 class="relative group">Terminology
+&lt;div id="terminology" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#terminology" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>In the expression $$a^n$$:&lt;/p></description></item><item><title>Math Test</title><link>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>agurutwa@gmail.com (Agurutwa Pathsala)</author><guid>https://agurutwa.github.io/Pathsala/en/en/upcoming/math/</guid><description>&lt;p>Inline:&lt;/p>
 &lt;p>$$
 a^2 + b^2 = c^2
 $$&lt;/p>
